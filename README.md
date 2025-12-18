@@ -18,7 +18,8 @@ A modern movie application built with **React JS** that shows trending movies an
 - API (TMDB)
 
 
-
+images:![image alt](https://github.com/user-attachments/assets/9e04f136-1d9f-4c63-919a-316fec2eb50c)
+![image alt](https://github.com/user-attachments/assets/92bbcb66-9ec6-4bb9-8c8a-a825469c42bf)
 
 ## ⚙️ Installation
 ```bash
@@ -28,9 +29,7 @@ npm install
 npm start
 
 
-images:![image alt](https://github.com/user-attachments/assets/9e04f136-1d9f-4c63-919a-316fec2eb50c)
 
-![image alt](https://github.com/user-attachments/assets/92bbcb66-9ec6-4bb9-8c8a-a825469c42bf)
 
 
 
