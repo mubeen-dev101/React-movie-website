@@ -28,7 +28,7 @@ npm install
 npm start
 
 
-Live Demo: http://localhost:5173/
+
 
 
 
